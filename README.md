@@ -12,3 +12,13 @@ Se inlcuyen los script para obtener los datos desde ioc-sealevelmonitoring y par
 
 - [Anaconda](https://www.anaconda.com/) - Paquete de Anaconda
 - [t_tides](https://github.com/moflaher/ttide_py) - A direct conversion of T_Tide to Python.
+> python setup.py install
+- [u_tides]() - 
+> conda install utide -c conda-forge
+
+
+### Help
+
+https://ocefpaf.github.io/python4oceanographers/blog/2015/02/16/utide/
+
+https://isabeljalonrojas.com/analisis-de-armonicos-de-marea-astronomica-con-t_tide/
